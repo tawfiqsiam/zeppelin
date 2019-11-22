@@ -14,10 +14,10 @@ title: "Nekool shop"
 email: "toto.siam999@gmail.com"
 description: "Nekool shop buy what ever you need for your skin"
 baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+url: "https://tawfiqsiam.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsSiteUrl: "https://tawfiqsiam.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
@@ -59,7 +59,7 @@ heroImage: "hero.jpg"
 heroTitle: "nekool shop for <typeout> "
 eventDate: "almost free"
 typeoutTextValues: '"", "All around the world"'
-typeoutFallback: "Season"
+typeoutFallback: "everyone"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a member"}
  - {permalink: "/#tickets", text: "Buy tickets"}
@@ -147,10 +147,10 @@ ticketsOffers:
   validThrough: "2014-09-30T23:59"
  -
   name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
+  price: "100"
+  priceCurrency: "usd"
   ticketsNumber: "100"
-  ribbon: "-20%"
+  ribbon: "-300%"
   featured: true
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
@@ -160,9 +160,9 @@ ticketsOffers:
   disabled: true
  -
   name: "Student"
-  price: "200"
+  price: "2000"
   priceCurrency: "UAH"
-  ticketsNumber: "50"
+  ticketsNumber: "500"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
