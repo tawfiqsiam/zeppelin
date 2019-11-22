@@ -58,14 +58,14 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "nekool shop for <typeout> "
 eventDate: "almost free"
-typeoutTextValues: '"", "Middle East", "UK", "Germany", "USA"'
+typeoutTextValues: '"", "All around the world"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a member"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About Nekool shop"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
@@ -74,10 +74,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "200", specialCharacter: "+", info: "new buyers", detail: "everyday"}
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "190", specialCharacter: "+", info: "states", detail: "we sell everywhere"}
+ - {count: "24", specialCharacter: "", info: "support", detail: "always ready to help you"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
