@@ -55,7 +55,7 @@ rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "jeunesse.jpg"
+heroImage: "hero.jpg"
 heroTitle: "nekool shop for <typeout> "
 eventDate: "almost free"
 typeoutTextValues: '"", "All around the world"'
