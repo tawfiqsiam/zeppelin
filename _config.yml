@@ -75,7 +75,7 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "200", specialCharacter: "+", info: "new buyers", detail: "everyday"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+ - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure technologies"}
  - {count: "190", specialCharacter: "+", info: "states", detail: "we sell everywhere"}
  - {count: "24", specialCharacter: "", info: "support", detail: "always ready to help you"}
 
@@ -122,7 +122,7 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+partnersC4sponsorsButton: "Become a member"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -146,32 +146,38 @@ ticketsOffers:
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-30T23:59"
  -
-  name: "Last Chance"
-  price: "100"
-  priceCurrency: "usd"
-  ticketsNumber: "100"
-  ribbon: "-300%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
- -
-  name: "Student"
-  price: "2000"
+   name: "Early Bird"
+  price: "350"
   priceCurrency: "UAH"
-  ticketsNumber: "500"
+  ticketsNumber: "150"
+  ribbon: "-5%"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
-
+  validFrom: "2014-08-25T10:00"
+  validThrough: "2014-09-30T23:59"
+ -
+   name: "Early Bird"
+  price: "350"
+  priceCurrency: "UAH"
+  ticketsNumber: "150"
+  ribbon: "-5%"
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-08-25T10:00"
+  validThrough: "2014-09-30T23:59"
+ -
+   name: "Early Bird"
+  price: "350"
+  priceCurrency: "UAH"
+  ticketsNumber: "150"
+  ribbon: "-5%"
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-08-25T10:00"
+  validThrough: "2014-09-30T23:59"
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
