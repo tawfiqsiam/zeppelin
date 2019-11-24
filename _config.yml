@@ -157,7 +157,7 @@ ticketsOffers:
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-30T23:59"
  -
-   name: "Early Bird"
+   name: "Early Birda"
   price: "350"
   priceCurrency: "UAH"
   ticketsNumber: "150"
@@ -168,7 +168,7 @@ ticketsOffers:
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-30T23:59"
  -
-   name: "Early Bird"
+   name: "Early Birsd"
   price: "350"
   priceCurrency: "UAH"
   ticketsNumber: "150"
