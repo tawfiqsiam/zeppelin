@@ -50,9 +50,9 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://www.facebook.com/Jeunesse-palestine-2329054844000842", text: "Become a memebr"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://www.facebook.com/Jeunesse-palestine-2329054844000842", text: "Become a member"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -61,7 +61,7 @@ eventDate: "almost free"
 typeoutTextValues: '"", "All around the world"'
 typeoutFallback: "everyone"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a member"}
+ - {link: "https://www.facebook.com/Jeunesse-palestine-2329054844000842", text: "Become a member"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
