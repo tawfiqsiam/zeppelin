@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Nekool shop"
 email: "toto.siam999@gmail.com"
-description: "Nekool shop buy what ever you need for your skin"
+description: "شركة الاستثمارات البسيطة"
 baseurl: "/zeppelin"
 url: "https://tawfiqsiam.github.io"
 permalink: "/blog/:title"
@@ -56,9 +56,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "nekool shop for <typeout> "
+heroTitle: "بيع <typeout> "
 eventDate: "almost free"
-typeoutTextValues: '"", "All around the world"'
+typeoutTextValues: '"اسعار منافسة", "منتجات تجميلية"'
 typeoutFallback: "everyone"
 heroButtons:
  - {link: "https://www.facebook.com/Jeunesse-palestine-2329054844000842", text: "Become a member"}
@@ -67,17 +67,17 @@ heroButtons:
 # About Block
 aboutTitle: "About Nekool shop"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "سوبهان الله!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "الاجتماعات ", image: "conference.jpg", text:   اجنماعات اسبوعية لمساعدتكم و  تنمية خبراتكم" }
+ - {title: "المنتجات", image: "workshop.jpg", text: "بيع اكثر من 80 منتج بكل سهولة و بدون ضرائب!" }
+ - {title: "من منحن", image: "hackathon.jpg", text: "نحن عبارة عن عائلة متحابة تهتم في مساعدة بعض للحصول على دخل لا يقل عن 3000 دولار!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "200", specialCharacter: "+", info: "new buyers", detail: "everyday"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure technologies"}
- - {count: "190", specialCharacter: "+", info: "states", detail: "we sell everywhere"}
- - {count: "24", specialCharacter: "", info: "support", detail: "always ready to help you"}
+ - {count: "200", specialCharacter: "+", info: "مشتري", detail: "اسبوعيا"}
+ - {count: "24", specialCharacter: "+", info: "ساعة", detail: "من المساعدة للاعضاء"}
+ - {count: "الموقع", specialCharacter: "+", info: "فلسطين", detail: "رام الله  "}
+ - {count: "ربج", specialCharacter: "", info: "مضمون", detail: "سهل و سريع"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -86,7 +86,7 @@ latestNewsTitle: "Latest news"
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersButtonText: "اهم الاعضاء"
 
 # Location Block
 locationBlockTitle: "Location"
