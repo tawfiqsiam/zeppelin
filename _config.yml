@@ -56,13 +56,13 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "بيع <typeout> "
+heroTitle: "هدفنا <typeout> "
 eventDate: "almost free"
-typeoutTextValues: '"اسعار منافسة", "منتجات تجميلية"'
+typeoutTextValues: '"بيع ", " استثمار"ثقة ","منافسة"'
 typeoutFallback: "everyone"
 heroButtons:
- - {link: "https://www.facebook.com/Jeunesse-palestine-2329054844000842", text: "Become a member"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "https://www.facebook.com/Jeunesse-palestine-2329054844000842", text: "كن احد اعضائنا"}
+ - {permalink: "/#tickets", text: "استثمر الان"}
 
 # About Block
 aboutTitle: "About Nekool shop"
