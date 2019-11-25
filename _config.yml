@@ -58,7 +58,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "هدفنا <typeout> "
 eventDate: "almost free"
-typeoutTextValues: '"بيع ", " استثمار"ثقة ","منافسة"'
+typeoutTextValues: '"", "الحصول على دخل لا يقل عن 300 دولار", "اسعار منافسة", "استثمار", "بيع"'
 typeoutFallback: "everyone"
 heroButtons:
  - {link: "https://www.facebook.com/Jeunesse-palestine-2329054844000842", text: "كن احد اعضائنا"}
@@ -76,8 +76,8 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "200", specialCharacter: "+", info: "مشتري", detail: "اسبوعيا"}
  - {count: "24", specialCharacter: "+", info: "ساعة", detail: "من المساعدة للاعضاء"}
- - {count: "الموقع", specialCharacter: "+", info: "فلسطين", detail: "رام الله  "}
- - {count: "ربج", specialCharacter: "", info: "مضمون", detail: "سهل و سريع"}
+ - {text: "الموقع", specialCharacter: "+", info: "فلسطين", detail: "رام الله  "}
+ - {text: "ربج", specialCharacter: "", info: "مضمون", detail: "سهل و سريع"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
