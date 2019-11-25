@@ -77,7 +77,7 @@ statisticBlock:
  - {count: "200", specialCharacter: "+", info: "مشتري", detail: "اسبوعيا"}
  - {count: "24", specialCharacter: "+", info: "ساعة", detail: "من المساعدة للاعضاء"}
  - {count: "10000", specialCharacter: "+", info: "عضو", detail: " من فلسطين في رام الله  "}
- - {title: "1500", specialCharacter: "", info: "دولار امريكي", detail: "و يصل الى اكثر من 10000 دولار امريكي"}
+ - {count: "1500", specialCharacter: "", info: "دولار امريكي", detail: "و يصل الى اكثر من 10000 دولار امريكي"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
