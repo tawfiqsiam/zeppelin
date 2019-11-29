@@ -43,9 +43,9 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/news/", text: "اخر الاخبار"}
+ - {permalink: "/meetings/", text: "مواعيد المقابلات"}
+ - {permalink: "/memebers/", text: "الاعضاء"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}
@@ -69,7 +69,7 @@ aboutTitle: "About Nekool shop"
 aboutBlock:
  - {title: "الاجتماعات ", image: "conference.jpg", text:   اجنماعات اسبوعية لمساعدتكم و  تنمية خبراتكم" }
  - {title: "المنتجات", image: "workshop.jpg", text: "بيع اكثر من 80 منتج بكل سهولة و بدون ضرائب!" }
- - {title: "من منحن", image: "hackathon.jpg", text: "نحن عبارة عن عائلة متحابة تهتم في مساعدة بعض للحصول على دخل لا يقل عن 3000 دولار!" }
+ - {title: "من منحن", image: "hackathon.jpg", text: "نحن عبارة عن عائلة متحابة تهتم في مساعدة بعض للحصول على دخل لا يقل عن 3000.00 دولار!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -135,14 +135,14 @@ ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
+  name: "التقدم لدخول المجموعة"
+  price: "100"
+  priceCurrency: "USD"
+  ticketsNumber: "1000"
+  ribbon: "0%"
   buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  buyButtonText: "انضم الان"
+  ticketContentList: [" انت سوف تقوم بعقد مع الشركة الام ب 30 دولار", "سوف تقوم بشراء حزمة ما لا يزيد عن 70 دولار", " لن نربح منك شيء بل نحن مجرد وسيط"]
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-30T23:59"
  -
@@ -159,9 +159,9 @@ ticketsOffers:
   validThrough: "2014-10-23T23:59"
   disabled: true
  -
-  name: "Student"
+  name: "تقدم بطلب للدخول"
   price: "200"
-  priceCurrency: "UAH"
+  priceCurrency: "USD"
   ticketsNumber: "50"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
